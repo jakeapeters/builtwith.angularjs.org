@@ -2,6 +2,26 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "timelock",
+    "thumb": "timelock/thumb.png",
+    "desc": "Online personal scheduling tool that makes meeting people easy.",
+    "url": "https://www.timelock.io",
+    "submitter": "jakeapeters",
+    "submissionDate": "2015-05-18",
+    "tags": [
+		"Production",
+		"Productivity",
+		"Sheduling",
+		"Animations",
+		"Local Storage",
+		"Calendars",
+		"Bootstrap",
+		"Node.js",
+		"HTML5",
+		"jQuery"
+		]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
